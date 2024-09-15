@@ -2,6 +2,6 @@
 
 Welcome to this page! This page is solely for the InternHub game! 
 
-Playable Game [Here!](https://github.com/AlexFenlon/NGINX-Game-InternHub/blob/main/index.html)
+Playable Game [Here!](https://alexfenlon.github.io//NGINX-Game-InternHub/build/web/index.html)
 
 Code here - [/NGINX-Game](https://github.com/spencerugbo/NGINX-Game)
