@@ -31,16 +31,19 @@ Curious about how **NGINX The Game** was built? The entire codebase is available
 ### Key Features ⭐:
 - **Office exploration**: Walk around the office as Alex, Spencer, or Stephen, and observe the virtual workspace.
 - **Intern experience**: A fun look at the daily life of interns within the office environment.
+  
 ---
 
 ## 🛠️ Technologies Used 🔧
 **NGINX The Game** utilizes modern game development tools and technologies:
 - **Python & Pygame**: The core framework used to develop the game.
 - **Pygbag**: Enables the game to be played directly in a browser.
+  
 ---
 
 ## 👥 Feedback & Contributions 📝
 We'd love to hear your thoughts on **NGINX The Game**! Whether it’s suggestions for improvements, ideas for new features, or general feedback, feel free to reach out through Slack!
+
 ---
 
 ### 🔗 Additional Resources 📚
